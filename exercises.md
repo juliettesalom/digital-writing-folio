@@ -1,3 +1,2 @@
 # Exercises
-[x] do hello world
-[x] 
+[x]do hello world
