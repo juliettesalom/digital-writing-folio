@@ -3,4 +3,4 @@
 - [x] do hello world
 - [x] add a repository for the folio
 - [ ] what tools do i use to write with
-- [ ] add notes about readings to (readings.md)
+- [ ] add notes about readings to [Readings](readings.md)
