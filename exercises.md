@@ -67,3 +67,23 @@
 - You have to learn a work to be able to read a work. Like learning an instrument before you play it.
 - What is it doing materially? What is it the user does that changes the piece? How does the piece change with the user?
 
+
+### Taroko Gorge remix: [Toy Garbage](https://nickm.com/taroko_gorge/toy_garbage/) by Talan Memmott
+
+#### What aspects of the remix are the same?
+
+- The way the poem moves, the lines that appear in the rhythm they're intended to be read, moving the reader along with the motion of the poem. 
+- Although the content of the poem is vastly different, the way in which the lines are structured is quite similar. Often the lines will read a noun then verb then another noun, the action of one things doing something to another thing is borrowed from Taroko Gorge.
+
+#### What aspects of the remix are different?
+
+- The punctuation of Toy Garbage differs from Taroko Gorge in that it is filled with exclamation marks, prompting an excited/enthusiastic tone to the poem.
+- The colour scheme is very different, from minimal colour other than the deep grass green background and the soft pink text to a background made up of panels of four colours in pastel: pinky red, green, yellow and blue, colours soft enough to be the background of a child's bedroom or play centre.
+- The type is different, from the basic san-serifed type of Taroko Gorge to the rounded, capitalised, almost hand-written-esque type of Toy Garbage.
+- The title is different, but borrows the first letters of the words Taroko Gorge, becoming Toy Garbage. 
+- As mentioned above, the content of the poem is vastly different. Where the theme of Taroko Gorge is the gorge itself, prompting imagery and descriptions of water and nature and trees and rocks, Toy Garbage instead prompts imagery of toys, of children's play, of verbs in relation to the movements of children.
+
+#### Is the remix successful (why or why not)?
+
+- The way the remix has borrowed the bones of the structure of Taroko Gorge and then applied this to a different theme/differe subject, being a volume of toys, works well in adopting a notion and using it on a different idea to create a new piece of art altogether. I think Toy Garbage borrows just enough from Taroko Gorge, in turn evolving everything else to have an undertone of consistencey related to the original poem, whilst now creating another poem of originality.
+- The use of punctuation with the exclamation marks impacts of the reading of the poem, and with it the movement. It changes the tone to one of somewhat seriousness to one of humour.
