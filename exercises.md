@@ -5,8 +5,8 @@
 - [x] create github account
 - [x] do hello world
 - [x] add a repository for the folio
-- [ ] answer questions
-- [ ] add notes about readings to [Readings](readings.md)
+- [x] answer questions
+- [x] add notes about readings to [Readings](readings.md)
 
 ### Questions
 
@@ -34,5 +34,8 @@
 - my desk is my comfort zone of writing. when i sit at my desk i feel like stuff will get done. perhaps my desk constrains me in a creative sense, if i were to write in other locations/environments/atmospheres, i may find new inspiration for my writing. 
 - i use the notes app on my phone excessively, but only for single sentences or ideas, not for longer pieces. i use it as a place to leave notes that remind me of what to work on later
 - if writing isn't done early in my mornings, it will not be done. early mornings are a tool that both faciliate and constrain my writing. if i were to be able to write at other times in the day, i owuldn't be limited.
+
+
+## Week 2
 
 
