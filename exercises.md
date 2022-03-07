@@ -38,4 +38,32 @@
 
 ## Week 2
 
+- [] add notes about readings to [readings](readings.md)
+- [x] answer questions
+- [x] decide on piece to do case study on
+
+### Questions
+
+#### How is electronic literature different from print literature?
+
+- Electronic literature is literature made for the purpose of being consumed digitally. Whereas print literature can be, now in our ever-evolving word of technology, be consumed in many forms (i.e. audiobooks, print, online, on tablets/phones, etc.), electronic literature is made to be exclusively published on one type of medium (being an electronic device). 
+- Consuming print literature may take more effort to actively particpate in that say TV, where it is easy to passively let content wash over you, electronic literature in a way goes beyond the active practice of reading. With the choose-your-own-adventure format a popular one amongst electronic literature, it is this type of interactive mode that electronic literature exists in that demands even more of an active participation from the consumer than just reading a book would entail. In a way, the interactive nature of some electronic literature demands attention in a way that allows the consumer to be, momentarily, a creator. If choosing one's adventure creates their own story, consumers become some sort of author in this process.
+- Whereas print literature existed for a long time, electronic literature is still relatively new and is still, and forever will be, developing.
+- The accessibility of print and electronic literature differs immensely, how one can get their hands on these pieces may be more or less accessible, depending on the text and the parameters in which surround it.
+- The limits of the page does not define electronic literature.
+
+#### What are some of the qualities of electronic literature?
+
+- The interactive nature of the medium forces consumers to partipate in an active way. It's incredibly, if not impossible, to consume some types of electronic literature passively. 
+- Often times, the protagonist is 'you', the works are created, unlike most print literature, using second-person persepctive. Second-person creates more complicity with interacting users and second-person.
+- Can be infinite.
+- The medium in which it is performed/published is on an electronic device. Wether a phone/laptop/tablet, it can only be consumed through technology.
+- Electronic literature is made to be consumed exclusively on one medium, if it were to be printed out, the literature would not be combatible. 
+- Conceptual work can be apart of it.
+- Can't physically see how far there is to go of a piece, meaning that the reader has to engage with the piece for an unknown amount of time. The sink-cost fallacy I think plays into this, meaning that it's tempting to not finish a piece if the reader can't see/know how long the piece is, so investing time and effort into a piece that they will never finish feels disappointing.
+- There will always be a work that will be an outlier, no matter the parameters or rules surrounding electronic literature.
+- There are no gatekeepers of electronic literature.
+- It is organic.
+- You have to learn a work to be able to read a work. Like learning an instrument before you play it.
+- What is it doing materially? What is it the user does that changes the piece? How does the piece change with the user?
 
