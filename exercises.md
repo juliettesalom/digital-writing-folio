@@ -6,7 +6,7 @@
 - [x] do hello world
 - [x] add a repository for the folio
 - [x] answer questions
-- [x] add notes about readings to [Readings](readings.md)
+- [] add notes about readings to [Readings](readings.md)
 
 ### Questions
 
@@ -38,7 +38,7 @@
 
 ## Week 2
 
-- [] add notes about readings to [readings](readings.md)
+- [x] add notes about readings to [readings](readings.md)
 - [x] answer questions
 - [x] decide on piece to do case study on
 
