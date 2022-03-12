@@ -51,3 +51,16 @@
 
 #### [With those we love alive](https://collection.eliterature.org/3/works/with-those-we-love-alive/empress.html)
 - The advice before the piece begins to have a pen or sharpie at hand, "something that can write on skin," ties the electronic nature of the piece with the physicality of the outside world, the reality of the human sitting behind the screen participating with the piece. The simple instructions (purple links change, pink links can move forward) encourages the accessibility of the piece, something that can stop a reader before they've even started. Without having to neccessarily learn how to read this piece before attempting to read it, this work breaks down some of those barriers that exist within electronic literature, or at least makes it easier for the reader to cross them. The audio element is another way the line is blurred between the electronic piece and the reality we participate with it within, it is thoroughly interactive.
+
+## Week 3
+
+### Academic
+
+#### [Beyond Taxonomy: Digital Poetics and the Problem of Reading](https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=3338652&ppg=306)
+- As having discussed in class, a definition of 'digital writing' (or digital poetry) has been hard to land on, with many contradictions and exceptions. But as we explore and read more digital writing, we're beginning to see and understand that, in art and literature, there will always be exceptions to the rule. This article's definition is simple and broad, vague whilst inclusive: "the object in question (must) be 'digital', mediated through digital technology, and that it be called 'poetry' (or writing) by its author or by a critical reader."
+- First generation digital texuality: hypertext
+- I like the idea that this article refers to, that "within digital poetry, the application of a given technology varies from one practitioner to the next, even from one work to the next by the same practitioner." Rather than a piece of art be the same experience for every person who consumes it (which doesn't happen anyway, even with texts like film or books that don't physically change from one reading to the next), even single time a digital piece is consumed, it is a different experience. We may get different readings from a film each time we see it, noticing things we haven't before, each time we consume digital poetry, the poetry itself may be changed. The product is always in flux, like the reader, and so no two readings of a text can ever be the same, even within the experience of one person. The evolution of a text is comparable to the evolution of the reader; maybe we evolve with the texts and the texts with us. This idea is re-emphasised in this article as the author writes: "Like a musician playing an instrument, a user could be said to play an application."
+- I like the idea (from Xylo by Peter Howard) of setting a piece to music and when the music ends, so does the text, closing the window automatically.
+- Page 300: The poetics of the work override the poetry: the intertainment is more potent than the entertainment.
+
+#### 
