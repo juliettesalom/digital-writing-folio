@@ -6,7 +6,7 @@
 - [x] do hello world
 - [x] add a repository for the folio
 - [x] answer questions
-- [] add notes about readings to [Readings](readings.md)
+- [x] add notes about readings to [Readings](readings.md)
 
 ### Questions
 
@@ -98,3 +98,7 @@
 Websites to keep in mind:
 - adobe colour
 - google fonts
+
+### We Walk to You Remix
+
+[When I go to dinner](https://diligent-zircon-sailfish.glitch.me)
