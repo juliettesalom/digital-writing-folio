@@ -87,3 +87,10 @@
 
 - The way the remix has borrowed the bones of the structure of Taroko Gorge and then applied this to a different theme/differe subject, being a volume of toys, works well in adopting a notion and using it on a different idea to create a new piece of art altogether. I think Toy Garbage borrows just enough from Taroko Gorge, in turn evolving everything else to have an undertone of consistencey related to the original poem, whilst now creating another poem of originality.
 - The use of punctuation with the exclamation marks impacts of the reading of the poem, and with it the movement. It changes the tone to one of somewhat seriousness to one of humour.
+
+## Week 3 - public holiday
+
+## Week 4
+
+- [x] submit presentation assignment
+- [ ] start to brainstorm ideas for proposal
