@@ -52,7 +52,9 @@
 #### [With those we love alive](https://collection.eliterature.org/3/works/with-those-we-love-alive/empress.html)
 - The advice before the piece begins to have a pen or sharpie at hand, "something that can write on skin," ties the electronic nature of the piece with the physicality of the outside world, the reality of the human sitting behind the screen participating with the piece. The simple instructions (purple links change, pink links can move forward) encourages the accessibility of the piece, something that can stop a reader before they've even started. Without having to neccessarily learn how to read this piece before attempting to read it, this work breaks down some of those barriers that exist within electronic literature, or at least makes it easier for the reader to cross them. The audio element is another way the line is blurred between the electronic piece and the reality we participate with it within, it is thoroughly interactive.
 
-## Week 3
+## Week 3 - public holiday
+
+## Week 4
 
 ### Academic
 
