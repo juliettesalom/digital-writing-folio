@@ -94,3 +94,7 @@
 
 - [x] submit presentation assignment
 - [ ] start to brainstorm ideas for proposal
+
+Websites to keep in mind:
+- adobe colour
+- google fonts
