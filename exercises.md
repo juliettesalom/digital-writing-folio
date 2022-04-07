@@ -116,8 +116,22 @@ The remixs we have made so far in class have also influenced me to consider doin
 
 ### Notes
 
+Not present in class due to sickness :( Caught up on recordings from home.
+
 - HTML - W3C
 - IDE - Integrated Development Environment
 
-Making own CV / website : juliettesalom.github.io
+Making own CV / website : juliettesalom.github.io - not working? must check up on this with Benjamin when next in class
 
+Hypertext fiction:
+- non-linear in terms of choose-your-own-adventure/postmodernist/experiemental
+- can't just make any narrative and link it together in a hypertext format, there has to be a purpose for the mode
+- how is hypertext different to fiction? the platforms differ, point of view (second person), non-linear, planning (more of it, more formulaic), increased complexity of multi-directional narrative, pacing is controlled by the psychicality of the text, recognise that whole sections of the text may not be read
+
+Making a story using twine, learning to use github desktop, netlify and visual studio code.
+
+I'm finding twine easy enough to use and I like the clean layout of the program, it feels very user-friendly for beginners. I think I'll probably go down the path of using twine to create my story for my creative project.
+
+- to add image: <img src="./images/imagename" alt="title" />
+
+https://github.com/juliettesalom/horizons-assignment 
