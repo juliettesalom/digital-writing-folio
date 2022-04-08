@@ -144,3 +144,5 @@ Also not present in class due to sickness :( Caught up on recordings from home.
 
 - Using example style for stylesheet - cursive hand-written script in white.
 - process to getting fonts and colours is the same as we have done before
+
+Bitsy example
