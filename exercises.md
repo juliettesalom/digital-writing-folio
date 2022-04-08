@@ -146,3 +146,13 @@ Also not present in class due to sickness :( Caught up on recordings from home.
 - process to getting fonts and colours is the same as we have done before
 
 Bitsy example: https://eloquent-crumble-8ac21d.netlify.app
+
+To do:
+- [x] brainstorm ideas for creative work
+- [] map story of creative work
+- [] use twine to start making creative work
+- [] make powerpoint slides
+
+## Week 7
+
+- [] submit assignment (slides and script)
