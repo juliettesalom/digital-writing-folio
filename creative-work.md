@@ -2,8 +2,8 @@
 
 ## TO DO
 - [x] brainstorm ideas for creative work
-- [ ] map story/plan story of creative work
-- [ ] work out logistics of work: how long? what program?
+- [x] map story/plan story of creative work
+- [x] work out logistics of work: how long? what program?
 - [ ] use twine to start making creative work
 - [ ] make powerpoint slides
 - [ ] submit proposal
@@ -31,7 +31,8 @@
 - There's only one path to go forward on, wrong options will always eventually lead to death.
 - According to the Wikipedia page, there were six different approaches used to solve the Y2K bug. Only after User does all six of these solutions will the bug be fixed and the apocalypse avoided.
 - The way the story will be structured will be around the idea of 5 minutes left. Within each minute to go, there is a bug (or two for the first minute) that needs to be solved in order to progress to the next minute. To get to the point of solving this bug, there will be two or three steps, and at each step there will be a right or wrong way to go forward. 
-- This will mean that there will be about 18 passages to the end of the story if the user only chooses the correct steps, however altogether there will be about 29 passages, including wrong steps taken and explanation passages
+- This will mean that there will be about 20ish passages to the end of the story if the user only chooses the correct steps, however altogether there will be about 30-35 passages, including wrong steps taken and explanation passages
+- Twine will be used as this will be the easiest and most logical program in which to enact this story. I probably also feel the most comfortable with Twine.
 
 Story beats/story outline:
 - User is told the situation: 5 minutes until the year 2000, only they can fix the bug in time to stop the computer apocalypse from taking beginning and destroying the human world.
