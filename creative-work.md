@@ -4,9 +4,9 @@
 - [x] brainstorm ideas for creative work
 - [x] map story/plan story of creative work
 - [x] work out logistics of work: how long? what program?
-- [ ] use twine to start making creative work
-- [ ] make powerpoint slides
-- [ ] submit proposal
+- [x] use twine to start making creative work
+- [x] make powerpoint slides
+- [x] submit proposal
 - [ ] finalise story/finish planning story
 - [ ] map story onto twine
 - [ ] stylise with font/colour/images
