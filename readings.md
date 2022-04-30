@@ -108,3 +108,18 @@
 #### [Poetic playlands: poetry, interface, and video game engines](https://www.bloomsburycollections.com/book/electronic-literature-as-digital-humanities-contexts-forms-practices/ch30-poetic-playlands-poetry-interface-and-video-game-engines)
 - "This familiarity operates as a foothold, a climbing rope, a ladder, a doorway into what is otherwise a strange foreign world for most users/readers." In his pondering on why his digital poetry/art games are more attractive to users compared to his other work, Jason Nelson points out that familiarity can be a strong tool in engaging users who are otherwise unfamiliar or new to this type of work. For me personally, as a new reader of digital literature, I can definitely relate to this sentiment. Digital games and computer games seem like a common ground of nostalgia for most people who, as Nelson points out, have grown up after the 1970s. Basing a work that is uniquely unfamiliar in its mode in a very familiar product, such as the style of Mario Brothers, feels like a smart choice in engaging users that might otherwise be put off by the newness of form that digital literature is for lots of people.
 - " Additionally, many digital poems are inherently born from non-linear thinking and writing... But interactive technologies, and especially the game format, offer the poet the chance to make their poems not only multi-dimensional, but also interactive and multi-temporal." When Nelson explains it like this it seems to only make sense to partner video games with poetry. The convergence of the two seems absurd on the surface, but the non-linear nature of creation and of consumption means that these forms and types of art actually complement each other immensely.
+
+## Week 8
+
+No class - ANZAC Day
+
+## Week 9
+
+### Academic
+
+#### [Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique] (https://electronicbookreview.com/essay/excavating-logics-of-white-supremacy-in-electronic-literature-antiracism-as-infrastructural-critique/) 
+- "White supremacy is mundane and understated, which is one of the reasons why it operates with impunity." 
+- "In other words, my use of white supremacy is less concerned with the value of visual signifiers (e.g., color; skin tone, etc.) than it is with how hierarchies of difference use visual signifiers to project value onto bodies, to regulate aesthetics, and to distribute power inequitably."
+- The discussion that takes place in this piece of the structures below the surface that allow white supremacy to function (and thrive) is as important as it is challenging. With a plethora of conditions that are at play, beginning to understand and explore these is the start to dismantling them. The depth with which this issue is discussed is thought-provoking, and I like the author's approach to the subject of focusing less on singular visual signifiers of race, but rather what structures exist that perpetuate a heirarchy and allow white supremacy to sustain.
+
+
