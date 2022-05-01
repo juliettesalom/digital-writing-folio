@@ -7,9 +7,10 @@
 - [x] use twine to start making creative work
 - [x] make powerpoint slides
 - [x] submit proposal
-- [ ] finalise story/finish planning story
-- [ ] map story onto twine
-- [ ] stylise with font/colour/images
+- [x] finalise story/finish planning story
+- [x] map story onto twine
+- [ ] add more alternative paths in story
+- [ ] stylise with font/colour/images/sound
 
 
 ### Brainstorm
