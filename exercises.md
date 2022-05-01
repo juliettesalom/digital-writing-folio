@@ -149,10 +149,19 @@ Bitsy example: https://eloquent-crumble-8ac21d.netlify.app
 
 To do:
 - [x] brainstorm ideas for creative work
-- [] map story of creative work
-- [] use twine to start making creative work
-- [] make powerpoint slides
+- [x] map story of creative work
+- [x] use twine to start making creative work
+- [x] make powerpoint slides
 
 ## Week 7
 
-- [] submit assignment (slides and script)
+- [x] submit assignment (slides and script)
+
+## Week 8
+
+No classes - ANZAC Day
+
+## Week 9
+
+- [ ] work on creative work (try putting sound in or playing around with style)
+- [ ] fix artist CV page
