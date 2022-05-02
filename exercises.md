@@ -163,8 +163,8 @@ No classes - ANZAC Day
 
 ## Week 9
 
-- [ ] work on creative work (try putting sound in or playing around with style)
-- [ ] fix artist CV page
+- [x] try putting sound in
+- [ ] fix artist CV page: https://github.com/blidau/digital-writing-2022/blob/main/exercises/week5.md 
 
 Notes:
 - WCAG - Web Content Accessibility Guidelines
