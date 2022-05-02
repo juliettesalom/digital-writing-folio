@@ -165,3 +165,11 @@ No classes - ANZAC Day
 
 - [ ] work on creative work (try putting sound in or playing around with style)
 - [ ] fix artist CV page
+
+Notes:
+- WCAG - Web Content Accessibility Guidelines
+- ARIA - Accessible Rich Internet Appilications
+- IFTF Accessibility Test Report 2019
+- APX - Accessible Player Experiences
+- colour contrast/alternative text can be considered for accessibility
+- colour contrast checker - compare the foreground/background colours that it has enough of ratio to be visible to readers
