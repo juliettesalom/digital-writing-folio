@@ -122,4 +122,11 @@ No class - ANZAC Day
 - "In other words, my use of white supremacy is less concerned with the value of visual signifiers (e.g., color; skin tone, etc.) than it is with how hierarchies of difference use visual signifiers to project value onto bodies, to regulate aesthetics, and to distribute power inequitably."
 - The discussion that takes place in this piece of the structures below the surface that allow white supremacy to function (and thrive) is as important as it is challenging. With a plethora of conditions that are at play, beginning to understand and explore these is the start to dismantling them. The depth with which this issue is discussed is thought-provoking, and I like the author's approach to the subject of focusing less on singular visual signifiers of race, but rather what structures exist that perpetuate a heirarchy and allow white supremacy to sustain.
 
+## Week 10
+
+### Academic
+
+#### [Arriving Simultaneously: Selections from a writer’s Notebook](https://thedigitalreview.com/issue00/arriving-simultaneously-notebook/index.html)
+- "A writer's notebook is not a final paper but rather reflects the development of a work or series of works. In the informal, recursive, yet productive practice of creating notebooks online, ideas and sources are developed and slowly emerge."
+- Judy Malloy's writer's notebook is a combination of imagery and text, organised in a neat and systematic way, using colour, diagrams and symbols to navigate the ideas she explores. Her transtition from a hard-copy notebook to a digital one seems a significant one, one that allowed her to produce her work for an audience and organise it in a succinct manner. This has prompted me to consider a digital writer's notebook for my own practice. Whilst I undertake most of my writing on my computer anyway, it all exists under singular Word documents. Creating an online platform in which to collate my work and ideas could allow me to draw on and from different pieces of work to benefit each other, perhaps streamlining my creative process.
 
