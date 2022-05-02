@@ -10,7 +10,8 @@
 - [x] finalise story/finish planning story
 - [x] map story onto twine
 - [ ] add more alternative paths in story
-- [ ] stylise with font/colour/images/sound
+- [ ] sound: add ticking sound to each passage (faster ticking sounds as clock counts down maybe?)
+- [ ] style: 
 
 
 ### Brainstorm
