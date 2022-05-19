@@ -7,7 +7,7 @@
 
 ## To do
 
-- [ ] Add/refine notes on weekly readings
+- [x] Add/refine notes on weekly readings
 - [ ] Refine exercises from class
 - [ ] Add formal reflection
 - [ ] Link artist CV / refine artist CV
