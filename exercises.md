@@ -109,7 +109,9 @@ Websites to keep in mind:
 ### Class presentations
 
 Watching the presentations of my peers present the digital creative works they have studied has been helpful inspiration for my own creative piece. Seeing the sheer variety and diversity of types of digital literature provides me with an abundance of opportunities to select one as the path I wish my piece to go down. The piece I chose for my own case study, Judy Malloy's Uncle Roger, is itself quiet inspiring in its simplicity of format and design, whilst prompting an array of intriguing stories and nuanced themes that underpin them. I like the idea of experiencing a story anew each time it is read, the way Malloy has constructed her piece so to never get the same one story after a reading.
+
 I also like the idea of using my digital literature piece as a space that is a direct descendant of a known internet phenomenom, being the chat room. As in [A Compendium of Failed Relationships](http://cordite.org.au/poetry/game/a-compendium-of-failed-relationships/), the different chat windows and internet tabs popping up feel very reminiscent of an internet I know and have grown up with. Maybe within this idea I could explore how the internet is being used to sustain relationships in a completely online, unreal mode. 
+
 The remixs we have made so far in class have also influenced me to consider doing a poetry piece for my creative project. One of the works presented on in class especially has inspired me, being bpNichol's [First Screening](http://vispo.com/bp/firstscreening.mp4) kinetic concrete poem. I like the tactility of the concrete poetry, how it not only can be read but can be felt in its form. I also really like the idea of the poem or piece of work moving by itself, with no reader intervention. As intriguing as the user-orientated form is in clicking through a story or poem from hypertext, the idea of just letting a piece unravel and move itself is also really engaging.
 
 ## Week 5
@@ -121,7 +123,7 @@ Not present in class due to sickness :( Caught up on recordings from home.
 - HTML - W3C
 - IDE - Integrated Development Environment
 
-Making own CV / website : juliettesalom.github.io - not working? must check up on this with Benjamin when next in class
+Making own CV / website : juliettesalom.github.io 
 
 Hypertext fiction:
 - non-linear in terms of choose-your-own-adventure/postmodernist/experiemental
@@ -164,7 +166,7 @@ No classes - ANZAC Day
 ## Week 9
 
 - [x] try putting sound in
-- [ ] fix artist CV page: https://github.com/blidau/digital-writing-2022/blob/main/exercises/week5.md 
+- [x] fix artist CV page
 
 Notes:
 - WCAG - Web Content Accessibility Guidelines
