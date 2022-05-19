@@ -117,7 +117,7 @@ No class - ANZAC Day
 
 ### Academic
 
-#### [Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique] (https://electronicbookreview.com/essay/excavating-logics-of-white-supremacy-in-electronic-literature-antiracism-as-infrastructural-critique/) 
+#### [Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique](https://electronicbookreview.com/essay/excavating-logics-of-white-supremacy-in-electronic-literature-antiracism-as-infrastructural-critique/) 
 - "White supremacy is mundane and understated, which is one of the reasons why it operates with impunity." 
 - "In other words, my use of white supremacy is less concerned with the value of visual signifiers (e.g., color; skin tone, etc.) than it is with how hierarchies of difference use visual signifiers to project value onto bodies, to regulate aesthetics, and to distribute power inequitably."
 - The discussion that takes place in this piece of the structures below the surface that allow white supremacy to function (and thrive) is as important as it is challenging. With a plethora of conditions that are at play, beginning to understand and explore these is the start to dismantling them. The depth with which this issue is discussed is thought-provoking, and I like the author's approach to the subject of focusing less on singular visual signifiers of race, but rather what structures exist that perpetuate a heirarchy and allow white supremacy to sustain.
