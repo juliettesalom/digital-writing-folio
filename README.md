@@ -12,4 +12,3 @@
 - [ ] Add formal reflection
 - [ ] Link artist CV / refine artist CV
 - [ ] Add/refine artist statement
-- [ ] Add critical responses to the work of my peers in proposal presentations
