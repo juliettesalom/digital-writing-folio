@@ -157,7 +157,12 @@ To do:
 
 ## Week 7
 
+Proposals
+
+To do:
 - [x] submit assignment (slides and script)
+
+One of the proposal presentations that stood out to me was Zoe's proposal to create a digital piece that will be informed by data on climate change. The use of graphs and graphics to illustrate the abundance of information, translating otherwise quite bland and cold information into visually interesting aesthetic is an idea that I think will work really well. I hadn't considered the use of graphs and data to deliver information in a digital piece, so the originality of this idea and it's non-fiction elements constrast with my creative piece was really interesting to see.
 
 ## Week 8
 
