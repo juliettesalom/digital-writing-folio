@@ -103,5 +103,5 @@ Sound:
 I've added sound to almost every passage of my Twine story, being a consistent ticking clock sound that is used to create a sense of urgencey, whilst also immersing the reader/user into the story. The story world of my piece is important in encouraging the reader to feel like they are as much as part of the story as they are reading it, and sound only adds to this sensation.
 
 To do:
-- [ ] change the colour of the option text on the passages from blue to something else more readable
-- [ ] test my story with people who haven't seen it before to get their reactions/suggestions/notes
+- [x] change the colour of the option text on the passages from blue to something else more readable
+- [x] test my story with people who haven't seen it before to get their reactions/suggestions/notes
