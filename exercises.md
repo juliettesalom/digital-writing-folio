@@ -183,5 +183,5 @@ Notes:
 
 ## Week 10, 11, 12
 
-Work on creative work: The Bug
+Work on creative work: [The Bug](creative-work.md)
 
