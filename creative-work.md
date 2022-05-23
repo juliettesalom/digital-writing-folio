@@ -13,6 +13,7 @@
 - [x] sound: add ticking sound to each passage
 - [x] style: add background image
 - [x] style: adjust font and placement of type
+- [x] get ready for submission
 
 
 ### Brainstorm
