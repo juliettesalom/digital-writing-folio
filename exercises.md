@@ -185,3 +185,7 @@ Notes:
 
 Work on creative work: [The Bug](creative-work.md)
 
+As part of refining and editing my creative work, Lillian Brewis and I swapped works and gave each other notes on the other's piece. From Lillian's notes I realised that there were a few mistakes on some passages (missing audio/typos/awkward syntax) as well as got an idea from Lillian to include some congratulatory music on the final passages, when the user finally reaches the end. In my notes that I gave Lillian I noted that the simplicity of her Twine design worked well in focusing on the story at hand, emphasising the writing and the tone created through the language. I suggested that she could change the colour of options once they are clicked to remain white, rather than turn blue, and I also suggested some other minor syntax/spelling adjustments. 
+
+It was very helpful to get another pair of eyes on my work, especially from someone who has the same level of experience of Twine as me, rather than a lay person I was testing the piece on.
+
